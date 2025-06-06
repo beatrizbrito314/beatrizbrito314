@@ -57,8 +57,6 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
