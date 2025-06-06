@@ -33,17 +33,17 @@
     align="left" 
     alt="PHP"
     title="PHP" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" 
+    src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" 
 />
 <img 
     align="left" 
     alt="C"
     title="C" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://gimgs2.nohat.cc/thumb/f/640/c-language-global-or-external-variables-with-examples-c-programming-logo--m2H7G6A0b1A0K9m2.jpg" 
+    src="https://static.vecteezy.com/system/resources/previews/048/332/147/non_2x/c-programming-icon-free-png.png" 
 />
 <img 
     align="left" 
