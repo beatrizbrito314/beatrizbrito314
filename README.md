@@ -35,7 +35,7 @@
     title="PHP" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.cdnlogo.com/logos/p/79/php.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" 
 />
 <img 
     align="left" 
@@ -43,7 +43,7 @@
     title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://ih1.redbubble.net/image.4419222780.5977/fposter,small,wall_texture,square_product,600x600.jpg" 
+    src="https://gimgs2.nohat.cc/thumb/f/640/c-language-global-or-external-variables-with-examples-c-programming-logo--m2H7G6A0b1A0K9m2.jpg" 
 />
 <img 
     align="left" 
