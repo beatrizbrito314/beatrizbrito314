@@ -1,4 +1,3 @@
-# :sparkles: Oie, eu sou Emilly!!!
 
 **`Estudante de Tecnologia da informação - UFRN`**
 
